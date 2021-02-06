@@ -19,3 +19,6 @@
 10. Dica: Você pode usar a máquina de abrir massa.
 11. Dica: Se a massa rasgar, corte o pedaço rasgado, amasse-a e você pode reusá-la.
 12. Corte no formato desejado, o que sobrar amasse e reuse seguindo os passos a partir do passo 8.
+
+## Origem
+[Massa de lasanha com semolina de trigo](https://youtu.be/lTlpk12sPes)

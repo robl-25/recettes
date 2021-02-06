@@ -1,31 +1,53 @@
 # Pão Francês
 
 ## Ingredientes:
-* 1kg de farinha de trigo peneirada
-* 25g de sal
-* 15g de açúcar
-* 60g de fermento biológico fresco (ou 25g do fermento biológico seco)
-* 100g de manteiga (ou margarina) culinária (com 80% de lipídios em teperatura ambiente)
-* 20g de melhorador (opcional)
-* Entre 550 e 600ml de água gelada
+### Esponja
+* 30g (1/4 de xícara) de farinha de trigo (preferencialmente peneirada)
+* 5 colheres de sopa de água
+* 6g (1/2 pacote) de fermento biológico fresco
+
+### Massa Final
+* 300g (2 e 1/4 de xícara) de farinha de trigo (preferencialmente peneirada)
+* 175 ml de água (colocqar água gelada, caso vá sovar em uma planetária)
+* 1/2 colher de sopa de sal(colher rasa)
+* 1/2 colher de sopa de açúcar(colher rasa)
+* 1 colher rasa de sopa de manteiga (margarina, óleo ou banha)
 
 ## Modo de preparo:
-1. Junte os ingredientes secos, inclusive o fermento (esfarele-o junto com os demais ingredientes secos). e misture bem.
-2. Despeje a mistura de ingredientes secos sobre uma bancada e faça um buraco grande no meio dela.
-3. Coloque a manteiga e 550ml de água gelada e vá misturando a farinha das bordas com a margarina e a água.
-4. Dica: Caso a farinha absorva muito a água, coloque mais 50ml.
-5. Sove bem a massa e faça rolos com a massa da grossura do interior dos seus dedos polegar e indicador unidos.
+1. Junte os ingredientes da esponja em uma tigela e mistura com uma colher até virar uma pasta.
+2. Reserve por 30 minutos ou até ele crescer. Tome cuidado para não deixar crescer muito, senão ele irá afundar.
+Recomendo deixar por 15 minutos inicialmente, depois olhar apra ver se já está bom e repetir até ficar bom.
+Precisa crecer e criar ar dentro (ficar com furos, aparecencia como de uma esponja).
+3. Coloque no mesmo recipente da esponja, a farinha, o sal e o açucar da massa final.
+4. Comece a misturar e vá acrescentando a água aos poucos. Pode ser que dê o ponto da massa com menos
+ou precise de mais água depende da farinha. O ponto é a massa ficar firme. Caso seja acrescentado água demais,
+pode-se colocar mais farinha, só vá colocando aos poucos.
+5. Sove a massa até ela ficar lisa, aproxidamente 10 minutos, mas depende da marcada da farinha.
+Caso a massa grude muito pode-se adicionar um pouco de farinha na bancada.
+6. Deixe a massa descançar por 20 minutos.
+7. Abra a massa e coloque a colher de manteiga.
+8. Sove mais a massa, por 5 minutos. Pode parecer que não vai misturar, mas ela mistura. Para
+testar se a massa está boa, pegue um pedaço pequeno dela e tente esticar, deve ser possível esticar sem rasgar.
+9. deixe descançar por 15 minutos.
 
 ## Como Modelar:
 
-1. Com a ajuda de um rolo, meça 6 dedos e corte com a mão.
-2. Em seguida, pegue uma por uma e achate um pouco com as mãos.
-3. Enrole e coloque a fenda para baixo em uma forma antiaderente.
-4. Espere crescer entre 1h30 e 2h até dobrar de volume.
-5. Antes de levar para assar, borrife água nos pães até eles ficarem com uma camada fina de água e pegue uma gilete nova e limpa ou um estilete para fazer um corte de 0,5cm no centro dos pães.
-6. Em seguida, borrife novamente água nos pães antes de leva-los ao forno.
-7. Coloque uma lata de goiabada ou duas latas de sardinha com água dentro do forno, para mantê-lo úmido enquanto os pães assam e ligue o forno a 250ºC para ele preaquecer por pelo menos 10 minutos.
-8. Diminua o forno para 220ºC e deixe os pães no forno por cerca de 10 minutos.
-9. Vire os pães para eles corarem por igual e diminua o forno para 200ºC.
-10. Retire do forno e não deixe os pães pegarem corrente de ar, para sua textura ficar impecável: crocante por fora e macia por dentro.
-11. Repita o mesmo processo para as outras fornadas.
+1. Com a ajuda de uma espatula, divida a massa em 6 partes iguais.
+2. Enrole cada pedaço.
+3. Abra cada pedaço com a mão, não precisa colocar farinha.
+4. Faça um rolo com cada pedaço. Para isso, vá puxando e apertando até ele formar um rolo. Aperta-se para a parte de trás
+do rolo ficar liso.
+5. Deixe descançar por 5 minutos.
+6. Remodele os pedaços da mesma forma que o passo 6. Caso o pedaço fique muito gordinho e pequeno,
+pode-se dar uma enrolada na bancada.
+7. Coloque os pedaços numa forma untada com óleo.
+8. Cubra com um pano umido e deixe descançar por 40 minutos ou até ele crescer.
+9. Com uma faca, a mais afiada possível, faça um corte na parte superior do pão.
+10. Jogue um pouco de água emcima do pão.
+11. Num forno pré-aquecido por 15 minutos, coloque os pães para assar.
+Dica: Quando for colocar o forno para pré-aquecer, coloque uma forma vazia também.
+Assim, quando for colocar os pães para assar, jogue água nessa forma, para formar bastante vapor no forno.
+12. Deixe por 15 minutos ou até ele ficar dourado.
+
+## Origem
+(Receita de Pão Francês Caseiro)[https://www.youtube.com/watch?v=5OeSc4_aHY4]
